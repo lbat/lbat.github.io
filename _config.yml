@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            GSoC 14
+tagline:          'Developing an Operation Theater Module for OpenMRS'
+description:      'Developing an <font color="white">Operation Theater Module for OpenMRS</font>. <br> Google Summer of Code (short GSoC) is a global program that offers students stipends to write code for open source projects.'
+#url:              http://hyde.getpoole.com
+
+author:
+  name:           'Lukas Breitwieser'
+#  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/hyde
